@@ -21,33 +21,41 @@ Container Deployment on EC2
             ↓
 Live Django Website Updated Automatically
 ```
+<img width="1536" height="1024" alt="ChatGPT Image May 18, 2026, 01_04_41 AM" src="https://github.com/user-attachments/assets/29e1a988-aa71-4a5e-a23c-0bffd4d554d3" />
 
 ---
 
-# 📸 Screenshots To Add
-
 ## 🔹 Application Screenshots
 
-Take screenshots of:
-
 1. Login Page
+<img width="1916" height="968" alt="Screenshot 2026-05-18 005359" src="https://github.com/user-attachments/assets/e78ec010-f157-48f4-a70c-8146d5fdac11" />
+
 2. Register Page
+<img width="1919" height="969" alt="Screenshot 2026-05-18 005510" src="https://github.com/user-attachments/assets/43d7896f-6136-4b4b-8071-ed898b11643d" />
+
 3. Dashboard Page
+<img width="1919" height="916" alt="Screenshot 2026-05-18 005837" src="https://github.com/user-attachments/assets/5ff7d45d-8211-40d0-a839-46d1b08ef06e" />
+
 4. Add Job Page
-5. Job Entries Table
+<img width="1919" height="918" alt="Screenshot 2026-05-18 005901" src="https://github.com/user-attachments/assets/b45a842a-991c-4581-a06c-7fc10690b649" />
 
 ---
 
 ## 🔹 DevOps Screenshots
 
-Take screenshots of:
 
 1. Successful Jenkins Pipeline
+<img width="1919" height="969" alt="Screenshot 2026-05-18 005942" src="https://github.com/user-attachments/assets/faf93a1c-489c-4e15-a671-d75ca2f8b79a" />
+
 2. Jenkins Node Online Status
+<img width="1915" height="914" alt="Screenshot 2026-05-18 010019" src="https://github.com/user-attachments/assets/bf780dc0-c9d1-4740-a892-acde7cf3c8da" />
+
 3. GitHub Webhook Deliveries (200 OK)
-4. Docker Containers Running (`docker ps`)
-5. Website Running on EC2 Public IP
-6. Jenkins Pipeline Stages
+<img width="1903" height="826" alt="Screenshot 2026-05-18 010153" src="https://github.com/user-attachments/assets/c05f1530-962a-4d50-9c80-f02d00f76eb0" />
+
+4. Website Running on EC2 Public IP
+<img width="1919" height="809" alt="Screenshot 2026-05-18 010339" src="https://github.com/user-attachments/assets/657245e7-ba16-41cf-81ca-a748d727a0b2" />
+
 ---
 
 # 📌 Project Overview
