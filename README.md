@@ -21,6 +21,7 @@ Container Deployment on EC2
             ↓
 Live Django Website Updated Automatically
 ```
+
 <img width="1536" height="1024" alt="ChatGPT Image May 18, 2026, 01_04_41 AM" src="https://github.com/user-attachments/assets/29e1a988-aa71-4a5e-a23c-0bffd4d554d3" />
 
 ---
